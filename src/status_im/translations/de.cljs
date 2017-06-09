@@ -4,7 +4,7 @@
   {
    ;common
    :members-title                         "Mitglieder"
-   :not-implemented                       "!nicht implementiert"
+   :not-implemented                       "nicht implementiert"
    :chat-name                             "Chatname"
    :notifications-title                   "Benachrichtigungen und Sounds"
    :offline                               "Offline"
