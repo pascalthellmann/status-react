@@ -208,8 +208,8 @@
    :main-wallet                           "Cartera principal"
 
    ;validation
-   :invalid-phone                         "Número telefónico inválido"
-   :amount                                "Monto"
+   :invalid-phone                         "Número de teléfono inválido"
+   :amount                                "Cantidad"
    :not-enough-eth                        (str "No hay suficiente ETH en tu saldo "
                                                "({{balance}} ETH)")
    ;transactions
